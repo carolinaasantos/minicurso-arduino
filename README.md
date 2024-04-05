@@ -1,4 +1,4 @@
-# Minucurso de Arduino
+# Minicurso de Arduino
 ### ✨ Sobre o curso e a motivação
 O minicurso de Arduino foi oferecido pelo grupo Women in Tech em Março de 2024. 
 
